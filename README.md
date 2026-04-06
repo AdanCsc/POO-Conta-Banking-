@@ -1,16 +1,16 @@
 # Sistema de Conta Bancária em Python
 
-Projeto utilizando Programação Orientada a Objetos (POO).
+Projeto simples utilizando Programação Orientada a Objetos (POO).
 
 ## 🚀 Funcionalidades
-- Depósito
-- Saque
-- Consulta de saldo
+- Depositar dinheiro
+- Sacar dinheiro
+- Ver saldo
 
 ## 🧠 Tecnologias
 - Python
-- Programação Orientada a Objetos (POO)
 
 ## ▶️ Como executar
+
 ```bash
 python conta.py
